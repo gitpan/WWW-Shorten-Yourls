@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WWW-Shorten-Yourls
-version:            0.01
+version:            0.02
 abstract:           Interface to shortening URLs using L<http://yourls.org>
 author:
     - Pankaj Jain <pjain@cpan.org>
